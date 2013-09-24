@@ -1,8 +1,7 @@
 zmq
 ===
 
-Helper library for Go and ØMQ
-Currently provides shorthand for json marshalling over ØMQ
+Helper library for Go and ØMQ. Currently provides shorthand for json marshalling over ØMQ.
 
     package main
 
